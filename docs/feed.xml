@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Mis articulos en audio</title>
+    <link>https://robertoroseteg-cloud.github.io/reb-mexico</link>
+    <description>Articulos de mis feeds RSS convertidos a audio automaticamente.</description>
+    <language>es</language>
+    <itunes:author>Pipeline automatico</itunes:author>
+
+    <item>
+      <title>Los maestros y el legado neoliberal</title>
+      <description>México – Rebelion — https://rebelion.org/los-maestros-y-el-legado-neoliberal/</description>
+      <link>https://rebelion.org/los-maestros-y-el-legado-neoliberal/</link>
+      <guid isPermaLink="false">23ef290911d118bc</guid>
+      <pubDate>Mon, 06 Jul 2026 03:14:44 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-mexico/episodios/23ef290911d118bc.mp3" length="1716624" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Las reformas laborales de la 4T</title>
+      <description>México – Rebelion — https://rebelion.org/las-reformas-laborales-de-la-4t/</description>
+      <link>https://rebelion.org/las-reformas-laborales-de-la-4t/</link>
+      <guid isPermaLink="false">8de1925c0359b836</guid>
+      <pubDate>Mon, 06 Jul 2026 03:14:31 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-mexico/episodios/8de1925c0359b836.mp3" length="3224016" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La economía de guerra de Occidente se adentra en una bahía en Sinaloa</title>
+      <description>México – Rebelion — https://rebelion.org/la-economia-de-guerra-de-occidente-se-adentra-en-una-bahia-en-sinaloa/</description>
+      <link>https://rebelion.org/la-economia-de-guerra-de-occidente-se-adentra-en-una-bahia-en-sinaloa/</link>
+      <guid isPermaLink="false">097bfc7bd120039b</guid>
+      <pubDate>Mon, 06 Jul 2026 03:14:06 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-mexico/episodios/097bfc7bd120039b.mp3" length="6270624" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Papel de los intelectuales mexicanos frente a las ofensivas mediáticas contra la 4T</title>
+      <description>México – Rebelion — https://rebelion.org/papel-de-los-intelectuales-mexicanos-frente-a-las-ofensivas-mediaticas-contra-la-4t/</description>
+      <link>https://rebelion.org/papel-de-los-intelectuales-mexicanos-frente-a-las-ofensivas-mediaticas-contra-la-4t/</link>
+      <guid isPermaLink="false">b1453f3b89f4a667</guid>
+      <pubDate>Mon, 06 Jul 2026 03:13:11 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-mexico/episodios/b1453f3b89f4a667.mp3" length="3162384" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Estados Unidos, capital de la corrupción</title>
+      <description>México – Rebelion — https://rebelion.org/estados-unidos-capital-de-la-corrupcion/</description>
+      <link>https://rebelion.org/estados-unidos-capital-de-la-corrupcion/</link>
+      <guid isPermaLink="false">13e1062cc48560e9</guid>
+      <pubDate>Mon, 06 Jul 2026 03:12:45 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-mexico/episodios/13e1062cc48560e9.mp3" length="1905840" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
