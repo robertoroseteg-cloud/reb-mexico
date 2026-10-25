@@ -1,5 +1,50 @@
 [
   {
+    "id": "ed0e30e1827141ab",
+    "titulo": "Del Movimiento 20/32 al desencanto: la crisis del SNITIS",
+    "fuente": "Rebelión · México",
+    "enlace": "https://rebelion.org/del-movimiento-20-32-al-desencanto-la-crisis-del-snitis/",
+    "archivo": "ed0e30e1827141ab.mp3",
+    "bytes": 3163680,
+    "timestamp": 1792941616
+  },
+  {
+    "id": "61387dbb323a229b",
+    "titulo": "México en la transformación digital",
+    "fuente": "Rebelión · México",
+    "enlace": "https://rebelion.org/mexico-en-la-transformacion-digital/",
+    "archivo": "61387dbb323a229b.mp3",
+    "bytes": 5262336,
+    "timestamp": 1792941580
+  },
+  {
+    "id": "b3e9a311349d78c9",
+    "titulo": "Antes y después del 2 de octubre del 68 la CIA financió a estudiantes derechistas en México",
+    "fuente": "Rebelión · México",
+    "enlace": "https://rebelion.org/antes-y-despues-del-2-de-octubre-del-68-la-cia-financio-a-estudiantes-derechistas-en-mexico/",
+    "archivo": "b3e9a311349d78c9.mp3",
+    "bytes": 2198736,
+    "timestamp": 1792941516
+  },
+  {
+    "id": "dff2f5624367295a",
+    "titulo": "El informe de la BUAP y las paradojas de la autonomía",
+    "fuente": "Rebelión · México",
+    "enlace": "https://rebelion.org/el-informe-de-la-buap-y-las-paradojas-de-la-autonomia/",
+    "archivo": "dff2f5624367295a.mp3",
+    "bytes": 5380560,
+    "timestamp": 1792941500
+  },
+  {
+    "id": "62021e1948a5a2fe",
+    "titulo": "Morena y los movimientos sociales: el Frente Amplio necesario",
+    "fuente": "Rebelión · México",
+    "enlace": "https://rebelion.org/morena-y-los-movimientos-sociales-el-frente-amplio-necesario/",
+    "archivo": "62021e1948a5a2fe.mp3",
+    "bytes": 1563552,
+    "timestamp": 1792941449
+  },
+  {
     "id": "cf971091a72b4c63",
     "titulo": "La grieta ineludible: el estruendoso fracaso diplomático de la delegación venezolana en México",
     "fuente": "Rebelión · México",
@@ -313,41 +358,5 @@
     "archivo": "23ef290911d118bc.mp3",
     "bytes": 1716624,
     "timestamp": 1783307684
-  },
-  {
-    "id": "8de1925c0359b836",
-    "titulo": "Las reformas laborales de la 4T",
-    "fuente": "México – Rebelion",
-    "enlace": "https://rebelion.org/las-reformas-laborales-de-la-4t/",
-    "archivo": "8de1925c0359b836.mp3",
-    "bytes": 3224016,
-    "timestamp": 1783307671
-  },
-  {
-    "id": "097bfc7bd120039b",
-    "titulo": "La economía de guerra de Occidente se adentra en una bahía en Sinaloa",
-    "fuente": "México – Rebelion",
-    "enlace": "https://rebelion.org/la-economia-de-guerra-de-occidente-se-adentra-en-una-bahia-en-sinaloa/",
-    "archivo": "097bfc7bd120039b.mp3",
-    "bytes": 6270624,
-    "timestamp": 1783307646
-  },
-  {
-    "id": "b1453f3b89f4a667",
-    "titulo": "Papel de los intelectuales mexicanos frente a las ofensivas mediáticas contra la 4T",
-    "fuente": "México – Rebelion",
-    "enlace": "https://rebelion.org/papel-de-los-intelectuales-mexicanos-frente-a-las-ofensivas-mediaticas-contra-la-4t/",
-    "archivo": "b1453f3b89f4a667.mp3",
-    "bytes": 3162384,
-    "timestamp": 1783307591
-  },
-  {
-    "id": "13e1062cc48560e9",
-    "titulo": "Estados Unidos, capital de la corrupción",
-    "fuente": "México – Rebelion",
-    "enlace": "https://rebelion.org/estados-unidos-capital-de-la-corrupcion/",
-    "archivo": "13e1062cc48560e9.mp3",
-    "bytes": 1905840,
-    "timestamp": 1783307565
   }
 ]
