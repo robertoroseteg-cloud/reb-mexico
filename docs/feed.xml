@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
 
     <item>
+      <title>El eje México-Brasil</title>
+      <description>Rebelión · México — https://rebelion.org/el-eje-mexico-brasil/</description>
+      <link>https://rebelion.org/el-eje-mexico-brasil/</link>
+      <guid isPermaLink="false">a8806857c867090a</guid>
+      <pubDate>Mon, 02 Nov 2026 21:07:00 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-mexico/episodios/a8806857c867090a.mp3" length="1768752" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>¿Celulares fuera?</title>
       <description>Rebelión · México — https://rebelion.org/celulares-fuera/</description>
       <link>https://rebelion.org/celulares-fuera/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">52deead95de6a4d8</guid>
       <pubDate>Mon, 06 Jul 2026 19:05:36 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/reb-mexico/episodios/52deead95de6a4d8.mp3" length="2192688" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La psicología del mexicano</title>
-      <description>México – Rebelion — https://rebelion.org/la-psicologia-del-mexicano/</description>
-      <link>https://rebelion.org/la-psicologia-del-mexicano/</link>
-      <guid isPermaLink="false">1b83d6094773ac5e</guid>
-      <pubDate>Mon, 06 Jul 2026 19:05:15 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/reb-mexico/episodios/1b83d6094773ac5e.mp3" length="2441808" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
