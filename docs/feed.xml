@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
 
     <item>
+      <title>México construye su propia inteligencia artificial en el Sector Salud</title>
+      <description>Rebelión · México — https://rebelion.org/mexico-construye-su-propia-inteligencia-artificial-en-el-sector-salud/</description>
+      <link>https://rebelion.org/mexico-construye-su-propia-inteligencia-artificial-en-el-sector-salud/</link>
+      <guid isPermaLink="false">d036a966843ecd49</guid>
+      <pubDate>Wed, 04 Nov 2026 19:08:42 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-mexico/episodios/d036a966843ecd49.mp3" length="5070816" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>El eje México-Brasil</title>
       <description>Rebelión · México — https://rebelion.org/el-eje-mexico-brasil/</description>
       <link>https://rebelion.org/el-eje-mexico-brasil/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">9bad6af9272daad6</guid>
       <pubDate>Mon, 06 Jul 2026 19:06:09 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/reb-mexico/episodios/9bad6af9272daad6.mp3" length="3638160" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Thyssenkrupp: empresa alemana acusada de financiar un genocidio y un ecocidio</title>
-      <description>México – Rebelion — https://rebelion.org/thyssenkrupp-empresa-alemana-acusada-de-financiar-un-genocidio-y-un-ecocidio/</description>
-      <link>https://rebelion.org/thyssenkrupp-empresa-alemana-acusada-de-financiar-un-genocidio-y-un-ecocidio/</link>
-      <guid isPermaLink="false">52deead95de6a4d8</guid>
-      <pubDate>Mon, 06 Jul 2026 19:05:36 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/reb-mexico/episodios/52deead95de6a4d8.mp3" length="2192688" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
