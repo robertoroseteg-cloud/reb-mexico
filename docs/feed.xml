@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
 
     <item>
+      <title>¿Por qué es esencial estudiar los lagos que nos dan de beber? El caso de Chapala en México</title>
+      <description>Rebelión · México — https://rebelion.org/por-que-es-esencial-estudiar-los-lagos-que-nos-dan-de-beber-el-caso-de-chapala-en-mexico/</description>
+      <link>https://rebelion.org/por-que-es-esencial-estudiar-los-lagos-que-nos-dan-de-beber-el-caso-de-chapala-en-mexico/</link>
+      <guid isPermaLink="false">eb1e639685ee73c4</guid>
+      <pubDate>Thu, 05 Nov 2026 19:16:07 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-mexico/episodios/eb1e639685ee73c4.mp3" length="2135520" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>México construye su propia inteligencia artificial en el Sector Salud</title>
       <description>Rebelión · México — https://rebelion.org/mexico-construye-su-propia-inteligencia-artificial-en-el-sector-salud/</description>
       <link>https://rebelion.org/mexico-construye-su-propia-inteligencia-artificial-en-el-sector-salud/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">87c8030ab04ec2e8</guid>
       <pubDate>Mon, 06 Jul 2026 19:06:34 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/reb-mexico/episodios/87c8030ab04ec2e8.mp3" length="3035376" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La protesta social y el interés privado</title>
-      <description>México – Rebelion — https://rebelion.org/la-protesta-social-y-el-interes-privado/</description>
-      <link>https://rebelion.org/la-protesta-social-y-el-interes-privado/</link>
-      <guid isPermaLink="false">9bad6af9272daad6</guid>
-      <pubDate>Mon, 06 Jul 2026 19:06:09 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/reb-mexico/episodios/9bad6af9272daad6.mp3" length="3638160" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
