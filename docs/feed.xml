@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
 
     <item>
+      <title>Denuncian presencia de militares israelíes en escuelas públicas mexicanas</title>
+      <description>Rebelión · México — https://rebelion.org/denuncian-presencia-de-militares-israelies-en-escuelas-publicas-mexicanas/</description>
+      <link>https://rebelion.org/denuncian-presencia-de-militares-israelies-en-escuelas-publicas-mexicanas/</link>
+      <guid isPermaLink="false">ac2040532e729cbb</guid>
+      <pubDate>Sat, 07 Nov 2026 17:12:31 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-mexico/episodios/ac2040532e729cbb.mp3" length="2515536" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>¿Por qué es esencial estudiar los lagos que nos dan de beber? El caso de Chapala en México</title>
       <description>Rebelión · México — https://rebelion.org/por-que-es-esencial-estudiar-los-lagos-que-nos-dan-de-beber-el-caso-de-chapala-en-mexico/</description>
       <link>https://rebelion.org/por-que-es-esencial-estudiar-los-lagos-que-nos-dan-de-beber-el-caso-de-chapala-en-mexico/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">4ecf9bb8abc53102</guid>
       <pubDate>Mon, 06 Jul 2026 19:09:46 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/reb-mexico/episodios/4ecf9bb8abc53102.mp3" length="19279872" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Entre Escila y Caribdis</title>
-      <description>México – Rebelion — https://rebelion.org/entre-escila-y-caribdis-2/</description>
-      <link>https://rebelion.org/entre-escila-y-caribdis-2/</link>
-      <guid isPermaLink="false">87c8030ab04ec2e8</guid>
-      <pubDate>Mon, 06 Jul 2026 19:06:34 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/reb-mexico/episodios/87c8030ab04ec2e8.mp3" length="3035376" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
