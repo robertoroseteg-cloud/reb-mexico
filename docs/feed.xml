@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
 
     <item>
+      <title>El papel de la tecnología mexicana en la cumbre de la APEC</title>
+      <description>Rebelión · México — https://rebelion.org/el-papel-de-la-tecnologia-mexicana-en-la-cumbre-de-la-apec/</description>
+      <link>https://rebelion.org/el-papel-de-la-tecnologia-mexicana-en-la-cumbre-de-la-apec/</link>
+      <guid isPermaLink="false">7e986833327bba1c</guid>
+      <pubDate>Tue, 17 Nov 2026 20:16:14 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-mexico/episodios/7e986833327bba1c.mp3" length="4599360" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Otro escándalo de Morena: Taddei y la corrupción del INE</title>
       <description>Rebelión · México — https://rebelion.org/otro-escandalo-de-morena-taddei-y-la-corrupcion-del-ine/</description>
       <link>https://rebelion.org/otro-escandalo-de-morena-taddei-y-la-corrupcion-del-ine/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">17538113d0309892</guid>
       <pubDate>Fri, 10 Jul 2026 18:09:04 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/reb-mexico/episodios/17538113d0309892.mp3" length="3442752" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Campaña «Libertad secuestrada: la guerra de la UNAM contra sus estudiantes»</title>
-      <description>México – Rebelion — https://rebelion.org/campana-libertad-secuestrada-la-guerra-de-la-unam-contra-sus-estudiantes/</description>
-      <link>https://rebelion.org/campana-libertad-secuestrada-la-guerra-de-la-unam-contra-sus-estudiantes/</link>
-      <guid isPermaLink="false">f685ed5252373200</guid>
-      <pubDate>Thu, 09 Jul 2026 18:27:23 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/reb-mexico/episodios/f685ed5252373200.mp3" length="1382544" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
