@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
 
     <item>
+      <title>Claudia Sheinbaum en Shenzhen</title>
+      <description>Rebelión · México — https://rebelion.org/claudia-sheinbaum-en-shenzhen/</description>
+      <link>https://rebelion.org/claudia-sheinbaum-en-shenzhen/</link>
+      <guid isPermaLink="false">c26bdf67893c988b</guid>
+      <pubDate>Fri, 20 Nov 2026 19:27:49 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/reb-mexico/episodios/c26bdf67893c988b.mp3" length="3802752" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>El papel de la tecnología mexicana en la cumbre de la APEC</title>
       <description>Rebelión · México — https://rebelion.org/el-papel-de-la-tecnologia-mexicana-en-la-cumbre-de-la-apec/</description>
       <link>https://rebelion.org/el-papel-de-la-tecnologia-mexicana-en-la-cumbre-de-la-apec/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">aecf39e9905e2e2d</guid>
       <pubDate>Wed, 15 Jul 2026 16:52:46 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/reb-mexico/episodios/aecf39e9905e2e2d.mp3" length="2139552" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Crisis en las relaciones México-Estados Unidos</title>
-      <description>México – Rebelion — https://rebelion.org/crisis-en-las-relaciones-mexico-estados-unidos/</description>
-      <link>https://rebelion.org/crisis-en-las-relaciones-mexico-estados-unidos/</link>
-      <guid isPermaLink="false">17538113d0309892</guid>
-      <pubDate>Fri, 10 Jul 2026 18:09:04 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/reb-mexico/episodios/17538113d0309892.mp3" length="3442752" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
